@@ -2,34 +2,43 @@
 # Stock Comparison Dashboard
 
 ## Student Name
-Aiden Menard
+[Your Name]
 
-## App Description
-The Stock Comparison Dashboard is a Python application
-built using Streamlit that will help users compare the
-financial performance of different stocks. The app will
-allow users to examine historical stock prices, compare
-investment returns, and evaluate financial risk. The
-goal is to make stock market data easier to understand
-and help users make more informed investment decisions.
+## Project Description
+The Stock Comparison Dashboard is an interactive
+Python application built using Streamlit. The app
+allows users to compare different stocks, examine
+historical investment performance, and calculate
+investment returns.
+
+Users can select two companies, choose a time period,
+and enter an investment amount. The application
+then displays a graph, comparison table, and
+summary of the results.
 
 ## Intended Users
-This app is intended for college students, beginner
-investors, and individuals interested in learning
-about the stock market. It will provide an easy way
-to compare companies without needing advanced
-financial knowledge.
+This application is designed for college students,
+beginner investors, and individuals interested
+in learning about stock market performance.
+
+## Current Features
+- Select two stocks to compare
+- Choose a historical time period
+- Enter a starting investment amount
+- View an interactive investment growth chart
+- Calculate total investment returns
+- Compare results using a table
+- View a summary of historical performance
 
 ## Planned Features
-1. Stock Selection: Allow users to select two stocks
-   to compare, such as AMD and NVIDIA.
+- Calculate stock volatility and investment risk
+- Compare risk-adjusted returns
+- Add additional stocks for comparison
+- Provide more detailed investment analysis
+- Improve the dashboard design and layout
 
-2. Historical Price Charts: Display interactive graphs
-   showing stock price performance over time.
-
-3. Return and Risk Analysis: Calculate and compare
-   investment returns and stock volatility.
-
-4. Investment Summary: Provide a simple comparison
-   of the selected stocks to help users understand
-   their historical performance.
+## Technologies Used
+- Python
+- Streamlit
+- Yahoo Finance (yfinance)
+- pandas
